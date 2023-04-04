@@ -1,0 +1,28 @@
+//primeiro criamos um array de objetos. Neste caso são dois argumentos. o cliente e o salario. vamos criar uma função com o MAP que multiplica o salario deles por 2. O map devolve um novo array com o resultado da função.
+
+/* const bankClientes = [
+  { name: "Flor", money: 4000 },
+  { name: "Lana", money: 8000 },
+  { name: "Amarilis", money: 10000 },
+];
+
+// criando a arrow function.
+
+const multiplyMoney = () => {
+  console.log(
+    bankClientes.map((client, index) => {
+      return { nome: client.name, money: client.money * 2, id: index };
+    })
+  );
+};
+
+multiplyMoney(); 
+
+
+
+// função soma de dois numeros.
+
+function soma(num1, num2) {
+  return num1 + num2;
+}
+console.log(soma(3, 5));*/
